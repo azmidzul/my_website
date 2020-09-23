@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https:azmi99.netlify.app/"
+baseURL = "https//:azmi99.netlify.app/"
 languageCode = "en-us"
 title = "Forty"
 theme = "forty"
